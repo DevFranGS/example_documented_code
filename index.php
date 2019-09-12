@@ -1,3 +1,4 @@
+<?= ‘another branch’ ?>
 <?php
 /**
  * This class is useful for creating an instance and making increment and decrement
